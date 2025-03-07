@@ -17,7 +17,8 @@ namespace listas
             NoPuertas = noPuertas;
             Color = color;
         }
-
+         
+        //Este es un comentario nuevo
         public string Marca { get; set; }
         public string Modelo { get; set; }
         public int Anio { get; set; }

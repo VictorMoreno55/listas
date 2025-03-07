@@ -47,6 +47,7 @@ namespace listas
                 }
             }
         }
+
         static Menu Men()
         {
             Console.WriteLine("¿Qué quieres hacer?");
